@@ -1,9 +1,7 @@
 # ⏱ Focus
--  Golang
--  C# & .NET
--  PHP
+-  Golang, C#.NET, PHP
 -  Svelte
--  Linux stuff
+-  Linux
 
 <!---
 Brassbeard/Brassbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

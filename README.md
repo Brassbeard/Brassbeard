@@ -1,6 +1,6 @@
 # ⏱ Focus
 -  Golang, C#.NET, PHP
--  Svelte
+-  React, Svelte
 -  Linux
 
 <!---

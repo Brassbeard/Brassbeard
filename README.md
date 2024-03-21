@@ -1,5 +1,5 @@
 # ⏱ Focus
--  Golang, C#.NET, PHP
+-  C#, PHP 8, Python and Golang.
 -  React, Svelte
 -  Linux
 

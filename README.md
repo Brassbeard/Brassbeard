@@ -1,6 +1,6 @@
 # ⏱ Focus
 -  C#, PHP 8, Python and Golang.
--  React, Svelte
+-  Vuejs, React
 -  Linux
 
 <!---

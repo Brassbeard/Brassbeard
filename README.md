@@ -1,8 +1,6 @@
 # ⏱ Focus
--  C#, PHP 8, Python and Golang.
--  Vuejs, React
--  Linux
-
+-  Java, Go and Python.
+-  Vuejs, React.
 <!---
 Brassbeard/Brassbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
